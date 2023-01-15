@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "cv-app-net"
+  },
+  "targets": {
+    "cv-app-net": {
+      "hosting": {
+        "cv-app": [
+          "cv-app-net"
+        ]
+      }
+    }
+  }
+}
